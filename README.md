@@ -127,3 +127,5 @@ const user = await ErrorKit.wrapAsync(
 - **Community Forum:** https://discuss.errorkit.dev
 - **Support:** https://support.errorkit.dev
 
+
+# PR Update: 2025-11-01 12:47:00
